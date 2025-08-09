@@ -1,4 +1,4 @@
-// File: /Users/albertmends/Documents/legal-semantic/legal-semantic-search/src/app/api/bootstrap/route.ts
+// File: D:\Documents\LegalSemantic\legal-semantic-search-complete-code\src\app\api\bootstrap\route.ts
 import * as entry from '../../../../../src/app/api/bootstrap/route.js'
 import type { NextRequest } from 'next/server.js'
 
